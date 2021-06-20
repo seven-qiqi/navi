@@ -16,3 +16,12 @@ header,
 .top-nav-collapse {
   background-color: #24355C;
 }
+
+.float-button{
+	width: 30px;
+	height: 70px;
+	border-radius: 10px;
+	position: fixed;
+	right: 100px;
+	bottom: 30%;
+}
